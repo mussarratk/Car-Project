@@ -16,7 +16,8 @@ https://www.coursera.org/learn/foundations-of-ai-and-machine-learning/supplement
 ![image](https://github.com/user-attachments/assets/90ce05aa-e969-49a9-a090-ad81c1d11995)
 ![image](https://github.com/user-attachments/assets/94bec0f6-a57f-44c5-9d60-85f2061f9c4d)
 ![image](https://github.com/user-attachments/assets/87ca7f5c-bdc8-41c6-ba6f-35d7fc6aafdc)
-Model versioning is crucial for tracking updates and allows for quick rollbacks to previous versions if the new version underperforms in production
+- Model versioning is crucial for tracking updates and allows for quick rollbacks to previous versions if the new version underperforms in production
+- Version control is crucial for managing deployments, ensuring that the correct version of a model is deployed and allowing easy rollback if necessary.
 ![image](https://github.com/user-attachments/assets/e88de967-7515-462a-b147-e5610abd09b3)
 ![image](https://github.com/user-attachments/assets/c04d1f4d-592e-4d5d-8ba0-af13c8d94c5b)
 ![image](https://github.com/user-attachments/assets/a5146e1c-21c2-4abc-82a3-bae882469e0e)
